@@ -1,0 +1,3 @@
+﻿  Word ladder.cpp
+C:\Users\Kwizera\source\repos\Word ladder\Word ladder.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+  Word ladder.vcxproj -> C:\Users\Kwizera\source\repos\Word ladder\Debug\Word ladder.exe

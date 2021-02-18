@@ -1,0 +1,2 @@
+C:\Users\Kwizera\source\repos\Word ladder\Debug\Word ladder.exe
+C:\Users\Kwizera\source\repos\Word ladder\Debug\Word ladder.pdb
